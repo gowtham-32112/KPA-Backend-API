@@ -1,0 +1,52 @@
+bogie-checksheet:
+{
+  "formNumber": "BOGIE-2025-014",
+  "inspectionBy": "inspector_rahul_927",
+  "inspectionDate": "2025-07-13",
+  "bogieDetails": {
+    "bogieNo": "BGX-0932",
+    "makerYearBuilt": "BEML/2019",
+    "incomingDivAndDate": "ER / 2025-07-10",
+    "deficitComponents": "None",
+    "dateOfIOH": "2025-07-11"
+  },
+  "bogieChecksheet": {
+    "bogieFrameCondition": "Satisfactory",
+    "bolster": "Good",
+    "bolsterSuspensionBracket": "Rewelded",
+    "lowerSpringSeat": "New",
+    "axleGuide": "Slight Wear"
+  },
+  "bmbcChecksheet": {
+    "cylinderBody": "Serviced",
+    "pistonTrunnion": "Excellent",
+    "adjustingTube": "Replaced",
+    "plungerSpring": "Functional"
+  }
+}
+
+
+wheel_specification_body.json
+{
+  "formNumber": "WHEEL-2025-014",
+  "submittedBy": "wheel_officer_sneha",
+  "submittedDate": "2025-07-13",
+  "fields": {
+    "treadDiameterNew": "912 (900-1000)",
+    "lastShopIssueSize": "839 (800-900)",
+    "condemningDia": "826 (800-900)",
+    "wheelGauge": "1601 (+2,-1)",
+    "variationSameAxle": "0.4",
+    "variationSameBogie": "4",
+    "variationSameCoach": "11",
+    "wheelProfile": "29.2 Flange Thickness",
+    "intermediateWWP": "23 TO 27",
+    "bearingSeatDiameter": "130.055 TO 130.071",
+    "rollerBearingOuterDia": "280 (+0.0/-0.033)",
+    "rollerBearingBoreDia": "130 (+0.0/-0.022)",
+    "rollerBearingWidth": "92.7 (+0/-0.250)",
+    "axleBoxHousingBoreDia": "280.02 (+0.030/+0.048)",
+    "wheelDiscWidth": "127 (+3/-0)"
+  }
+}
+
