@@ -1,7 +1,7 @@
 # KPA-Backend-API
 This project implements two backend APIs using Flask and PostgreSQL based on the Swagger documentation and Postman collection provided by Sarva Suvidhan. It includes full CRUD-like endpoints for bogie checksheet and wheel specification forms, with proper data validation, error handling, and testing via Postman.
 
-Sarva Suvidhan - KPA Backend API Assignment
+**Sarva Suvidhan - KPA Backend API Assignment**
 📌 Project Overview
 This Flask-based backend project implements two APIs based on the Swagger documentation and Postman collection provided by Sarva Suvidhan for KPA form data management.
 
@@ -27,8 +27,23 @@ Database: PostgreSQL
 ORM: SQLAlchemy
 API Testing: Postman
 Environment Config: python-dotenv
-📂 Folder Structure
-api-project/ ├── app.py ├── config.py ├── extensions.py ├── models/ │ └── model.py ├── routes/ │ ├── api1.py │ ├── api2.py │ ├── bogie_checksheet.py │ └── wheel_specifications.py ├── .env ├── requirements.txt └── README.md
+yourname_kpa_backend/
+├── app.py
+├── config.py
+├── extensions.py
+├── .env
+├── requirements.txt
+├── README.md
+├── bogie_checksheet_body.json
+├── wheel_specification_body.json
+├── models/
+│   └── model.py
+├── routes/
+│   ├── api1.py
+│   ├── api2.py
+│   ├── bogie_checksheet.py
+│   └── wheel_specifications.py
+
 
 ⚙️ Setup Instructions
 1. Clone or unzip the project
